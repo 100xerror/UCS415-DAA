@@ -25,6 +25,3 @@ This repository contains resources, notes, and implementations related to the UC
 ## Contributing
 Contributions are welcome! Feel free to submit issues, fork the repository, and create pull requests.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
